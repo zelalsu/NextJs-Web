@@ -50,8 +50,9 @@ const Header = () => {
                 />
                 <div className={styles.inner}>
                   <div>Location</div>
-                  <InputGroup className="mb-3">
+                  <InputGroup className={styles.dropdown}>
                     <DropdownButton
+                      
                       variant="outline-secondary"
                       title={locationItem}
                       onSelect={handleLocation}
@@ -112,8 +113,6 @@ const Header = () => {
           </div>
         </div>
       </div>
-
- 
     </>
   );
 };

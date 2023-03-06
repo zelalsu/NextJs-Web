@@ -1,6 +1,5 @@
 import React from "react";
 import { Button } from "react-bootstrap";
-import AltHeader from "../Body/AltHeader";
 import styles from "./card.module.css";
 
 const Card = () => {
