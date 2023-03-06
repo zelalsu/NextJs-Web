@@ -1,0 +1,26 @@
+.text {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-decoration: none;
+
+}
+
+.logo {
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26.4px;
+
+}
+
+.innercontainer {
+    justify-content: end;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 52px;
+    color: #FFFFFF;
+}
+

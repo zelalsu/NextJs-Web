@@ -1,0 +1,33 @@
+[
+            {
+                "id": 1,
+                "name": "Discover",
+                "link" :"/discover"
+              
+              },
+              {
+                  "id": 2,
+                  "name": "Destinition",
+                  "link" :"/destinition"
+                  
+                },
+                {
+                  "id": 3,
+                  "name": "Saved",
+                  "link" :"/saved"
+                 
+                },
+                {
+                  "id": 4,
+                  "name": "About Us",
+                  "link" :"/AboutUs"
+                
+                },
+                {
+                  "id": 5,
+                  "name": "Language",
+                  "link" :"/language"
+                }
+               
+            ]
+

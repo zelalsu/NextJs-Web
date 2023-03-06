@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+   
+    gap: 120px;
+    padding: 124px;
+}
+
+.innerContainer {
+    display: flex;
+    flex-direction: column;
+    width: 284px;
+}
+
+.p {
+
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.a {
+    margin-top: 20px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+
+   
+}
+.map{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: 15px;
+
+}

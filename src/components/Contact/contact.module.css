@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+    
+}
+
+.photo {
+    background: url('/Photos/img.png');
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+.title {
+    padding: 20px;
+}
+
+.p1 {
+    font-size: 51.6593px;
+    color: white;
+}
+
+.rectangle {
+    background-color: white;
+    border-radius: 78px;
+    width: 765px;
+    height: 96px;
+
+}
+
+.inner {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 30px;
+
+}
+
+.icon {
+    background-image: url('/Photos/mail.png');
+    width: 51px;
+    height: 32px;
+
+}
+
+.button {
+    background: linear-gradient(135deg, #FD6E6A 0%, #FFC600 100%);
+    border-radius: 41px;
+    border-style: none;
+    flex-direction: row;
+    align-items: flex-start;
+
+}

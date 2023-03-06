@@ -1,0 +1,89 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 265px;
+    gap: 20px;
+}
+
+.headerText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47.8692px;
+    line-height: 62px;
+    color: #FFFFFF;
+
+}
+
+.headerText2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33.3597px;
+    line-height: 43px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.innerHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 16px;
+    background: #FFFFFF;
+    border-radius: 62px;
+    width: 1093px;
+    height: 90px;
+    margin: 210px;
+
+}
+
+.example {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #FFFFFF;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+    background-image: url('/Vectors/ara.svg');
+    border-color: #FFFFFF;
+    border-style: none;
+}
+
+.button:hover {
+    background-color: #FFFFFF;
+}
+
+.button:active {
+    background-color: #FFFFFF;
+    background-image: #fff;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.innerContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+}
